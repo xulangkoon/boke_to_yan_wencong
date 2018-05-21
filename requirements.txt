@@ -1,0 +1,6 @@
+Django==2.0.2
+future==0.16.0
+httplib2==0.10.3
+PyMySQL==0.8.0
+pytz==2018.3
+six==1.11.0
